@@ -2,6 +2,9 @@
 
 
 ![weatherPic](https://github.com/user-attachments/assets/446c867c-38b7-4c2d-be3a-303865112f8b)
+<p align="center">
+  <img src="![weatherPic2](https://github.com/user-attachments/assets/50f2d534-73f0-490c-ac19-9ee66f7db6b8)" />
+</p>
 ![weatherPic2](https://github.com/user-attachments/assets/50f2d534-73f0-490c-ac19-9ee66f7db6b8)
 ![image](https://github.com/user-attachments/assets/b90a322f-cce9-4207-8833-318c0a971665)
 
